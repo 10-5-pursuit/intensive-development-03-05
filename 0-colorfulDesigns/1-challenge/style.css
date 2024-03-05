@@ -6,8 +6,6 @@ body {
 }
 #circle1 {
     background: red;
-    border: none;
-    outline: none;
     border-radius: 50%;
     width: 525px;
     height: 525px;
@@ -17,8 +15,6 @@ body {
 }
 #circle2 {
     background: blue;
-    border: none;
-    outline: none;
     border-radius: 50%;
     width: 425px;
     height: 425px;
@@ -28,8 +24,6 @@ body {
 }
 #circle3 {
     background: yellow;
-    border: none;
-    outline: none;
     border-radius: 50%;
     width: 325px;
     height: 325px;
@@ -39,8 +33,6 @@ body {
 }
 #circle4 {
     background: green;
-    border: none;
-    outline: none;
     border-radius: 50%;
     width: 225px;
     height: 225px;
@@ -50,8 +42,6 @@ body {
 }
 #circle5 {
     background: purple;
-    border: none;
-    outline: none;
     border-radius: 50%;
     width: 125px;
     height: 125px;
@@ -61,8 +51,6 @@ body {
 }
 #circle6 {
     background: orange;
-    border: none;
-    outline: none;
     border-radius: 50%;
     width: 52px;
     height: 52px;

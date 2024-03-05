@@ -1,0 +1,26 @@
+body {
+    width: 50%;
+    margin: auto;
+}
+img {
+    width: 100%;
+    height: 60%;
+}
+figcaption {
+    color: gray;
+    text-align: end;
+}
+h1 {
+    font-size: 50px;
+    font-weight: 300;
+}
+p {
+    font-size: 30px;
+    color: gray;
+}
+#read {
+    color: gray;
+    font-size: 15px;
+    padding: 0px;
+    margin: 0px;
+}
