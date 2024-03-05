@@ -1,0 +1,58 @@
+body{
+    width: 1000px;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.redCircle{
+    width: 700px;
+    height: 700px;
+    background: red;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.blueCircle{
+    width: 600px;
+    height: 600px;
+    background: blue;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.yellowCircle{
+    width: 500px;
+    height: 500px;
+    background: yellow;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.greenCircle{
+    width: 400px;
+    height: 400px;
+    background: green;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.purpleCircle{
+    width: 300px;
+    height: 300px;
+    background: purple;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.orangeCircle{
+    width: 150px;
+    height: 150px;
+    background: orange;
+    border-radius: 50%;
+}
