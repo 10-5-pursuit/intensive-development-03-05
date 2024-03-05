@@ -1,0 +1,33 @@
+.container {
+    position: relative;
+    border-style: solid;
+    border-color: rgb(202, 199, 199);
+    border-width: 5px;
+    padding: 10px;
+    max-width: 400px;
+    height: 200px;
+}
+p {
+    margin: 0;
+    font-family: sans-serif;
+    font-weight: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.target {
+    border-style: solid;
+    outline: none;
+    border: none;
+    background-color: rgb(103, 2, 103);
+    border-radius: 5px;
+    width: 100px;
+    height: 100px;
+    color: #fff;
+    padding-top: 15px;
+    padding-left: 15px;
+    font-family: sans-serif;
+    position: absolute;
+    left: 72.6%;
+    bottom: 48%;
+}
