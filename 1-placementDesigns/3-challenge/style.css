@@ -1,0 +1,30 @@
+body {
+    background-color: #fff;
+}
+.container {
+    position: relative;
+    background-color: #fff;
+    border-style: solid;
+    padding: 10px;
+    border-color: gray;
+    border-width: 4px;
+    width: 400px;
+    height: 230px;
+}
+.greenbox {
+    position: absolute;
+    background-color: rgb(185, 237, 220);
+    width: 100px;
+    height: 150px;
+    text-align: left;
+    padding: 10px;
+    padding-top:  30px;
+    padding-left: 15px;
+    padding-right: 10px;
+    font-family: sans-serif;
+}
+.paragraph {
+    position: absolute;
+    width: 200px;
+    left: 40%;
+}
