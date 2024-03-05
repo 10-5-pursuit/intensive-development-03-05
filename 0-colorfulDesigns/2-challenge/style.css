@@ -1,0 +1,30 @@
+body {
+  background-color: #202320;
+}
+
+.circle {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  position: relative;
+}
+
+.red {
+  background-color: red;
+}
+
+.teal {
+  background-color: teal;
+}
+.orange {
+  background-color: orange;
+}
+.blue {
+  background-color: blue;
+}
+.purple {
+  background-color: purple;
+}
+.green {
+  background-color: green;
+}
