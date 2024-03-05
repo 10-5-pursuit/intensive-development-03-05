@@ -1,0 +1,57 @@
+body{
+    background: black;
+}
+.redCircle{
+    width: 100px;
+    height: 100px;
+    background: red;
+    border-radius: 50%;
+    position: relative;
+    top: 50px;
+    left: 80px;
+}
+.turquoiseCircle{
+    width: 100px;
+    height: 100px;
+    background: turquoise;
+    border-radius: 50%;
+    position: relative;
+    top: 25px;
+    left: 330px;
+}
+.orangeCircle{
+    width: 100px;
+    height: 100px;
+    background: orange;
+    border-radius: 50%;
+    position: relative;
+    top: 10px;
+    left: 660px;
+}
+.lightBlueCircle{
+    width: 100px;
+    height: 100px;
+    background: lightblue;
+    border-radius: 50%;
+    position: relative;
+    top: 50px;
+    left: 10px;
+}
+.purpleCircle{
+    width: 100px;
+    height: 100px;
+    background: purple;
+    border-radius: 50%;
+    position: relative;
+    top: 25px;
+    left: 300px;
+}
+.greenCircle{
+    width: 100px;
+    height: 100px;
+    background: green;
+    border-radius: 50%;
+    position: relative;
+    top: 10px;
+    left: 600px;
+}
