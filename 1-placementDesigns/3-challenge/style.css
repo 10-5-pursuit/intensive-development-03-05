@@ -1,0 +1,33 @@
+body{
+    font-family: Arial;
+    box-sizing: border-box;
+    margin: auto;
+    padding: 20px 20px;
+    position: absolute;
+}
+.container{
+    box-sizing: border-box;
+    border: 1px;
+    width: 563px;
+    height: 395px;
+    padding: 10px 10px;
+}
+.text{
+    box-sizing: border-box;
+    font-size: 23px;
+    border: 4px lightgray solid;
+    width: 540px;
+    height: 370px;
+    padding: 10px 10px;
+    display: flex;
+}
+.sidebar{
+    box-sizing: border-box;
+    background: rgb(203, 233, 221);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 270px;
+    padding: 0 20px;
+    margin-right: 20px;
+}
