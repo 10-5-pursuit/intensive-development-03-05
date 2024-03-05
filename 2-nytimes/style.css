@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img{
+    margin: 15px;
+    width: 600px;
+}
+.fig {
+    display: block;
+    padding-left: 530px;
+    color: #797979;
+}
+
+h1 {
+    margin: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.p-text{
+    margin: 20px;
+    position: relative;
+    color: grey;
+}
+label {
+    margin: 20px;
+    color: grey;
+}
