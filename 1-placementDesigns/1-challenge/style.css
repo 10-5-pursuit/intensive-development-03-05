@@ -9,7 +9,7 @@
     margin: 10px;
     border: 1px solid rgb(0,0,0);
     width: 80vw;
-    height: 80vh;
+    height: 70vh;
 }
 
 .border-box {
@@ -25,8 +25,9 @@ p {
     position: relative;
     margin: 10px;
     font-size: 18px;
-    
 }
+
+
 
 .green-box {
     margin: 5px;
@@ -35,8 +36,7 @@ p {
     width: 130px;
     border-radius: 10px;
     background-color: rgb(207,233,220);
-    text-align:left 50%;
-    padding-left: 10px;
+    padding-left: 20px;
     padding-top: 20px;
     font-size: 18px;
 }
