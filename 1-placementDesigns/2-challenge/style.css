@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.border-box {
+    border: 5px solid rgb(200,200,200);
+    position: relative;
+    margin: 10px;
+    padding: 30px 15px;
+    height: 50vh;
+}
+
+p {
+    font-size: 25px;
+
+}
+
+.target-box {
+    border-radius: 10px;
+    height: 200px;
+    width: 200px;
+    background-color: rgb(100,50,150);
+    position: absolute;
+    right: 0%;
+    top: 0%;
+    padding-left: 4%;
+    padding-top: 4%;
+    color: rgb(255,255,255);
+    font-size: 25px;
+}
