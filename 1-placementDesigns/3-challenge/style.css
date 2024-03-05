@@ -1,0 +1,33 @@
+.container{
+    margin: auto;
+    width: 700px;
+    height: 550px;
+    border: 1px solid gray;
+}
+.box_container{
+    margin: 10px;
+    width: 550px;
+    height: 430px;
+    border: 7px solid lightgrey;
+    padding: 20px;
+}
+.text-box{
+    position: absolute;
+    width: 360px;
+    left: 500px;
+    top: 40px;
+}
+p{
+    font-size: 22px;
+    font-family: arial;
+    font-weight: 500;
+    line-height: 32px;  
+}
+.side_box{
+    height: 250px;
+    width: 150px;
+    background-color: #CFE8DC;
+    border-radius: 2px;
+    padding-left: 20px;
+    padding-top: 5px;
+}

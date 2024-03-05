@@ -1,0 +1,43 @@
+.container {
+    width: 700px;
+    height: 500px;
+    background-color: #222;
+    margin: auto;
+    position: relative;
+}
+.circle{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%; 
+}
+.red{
+    background-color: red;
+    top: 60px;
+    left: 90px;
+}
+.blue{
+    background-color: #6495EC;
+    top: 260px;
+    left: 30px;
+}
+.aqua{
+    background-color: #20B2AA;
+    top: 110px;
+    left: 350px;
+}
+.purple{
+    background-color: #9932CC;
+    top: 310px;
+    left: 280px;
+}
+.orange{
+    background-color: #FFA500;
+    top: 160px;
+    left: 580px;
+}
+.green{
+    background-color: #238B21;
+    top: 350px;
+    left: 530px;
+}
