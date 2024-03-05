@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+img{
+  margin: 15px;
+  width: 500px;
+}
+figcaption {
+ position: absolute;
+ color: gray;
+ padding: 10px;
+}
+
+h1 {
+  margin: 10px;
+  font-family: 'Times New Roman';
+}
+.p-text{
+  margin: 10px;
+  position: relative;
+  color: grey;
+}
+label {
+  margin: 10px;
+  color: grey;
+}
