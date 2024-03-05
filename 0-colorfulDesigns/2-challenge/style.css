@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100%;
+    min-height: 100vh;
+    background:  #131414;
+    padding: 10px;
+}
+
+.c1 {
+    fill: #e00b0b;
+    
+ }
+
+.c2 {
+   fill: #23737a;
+   
+
+}
+
+.c3 {
+    fill: #c77b19
+ }
+
+
+ .c4 {
+    fill: #5a73bc
+ }
+
+
+ .c5 {
+    fill: #7e3696
+ }
+
+ .c6 {
+    fill: #107806
+
+ }
