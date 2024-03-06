@@ -1,0 +1,43 @@
+.circle {
+  position: relative;
+  border-radius: 50%;
+  top: 50px;
+  left: 50px;
+}
+
+.red {
+  margin: auto;
+  width: 600px;
+  height: 600px;
+  background-color: red;
+}
+
+.blue {
+  width: 500px;
+  height: 500px;
+  background-color: blue;
+}
+
+.yellow {
+  width: 400px;
+  height: 400px;
+  background-color: yellow;
+}
+
+.green {
+  width: 300px;
+  height: 300px;
+  background-color: green;
+}
+
+.purple {
+  width: 200px;
+  height: 200px;
+  background-color: purple;
+}
+
+.orange {
+  width: 100px;
+  height: 100px;
+  background-color: orange;
+}
