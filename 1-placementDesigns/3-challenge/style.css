@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    
+    max-height: 100vh;
+    max-width: 100vh;
+    position: relative;
+}
+
+main {
+    display: flex;
+    position: absolute;
+    border: 5px solid #ccc;
+    width: 450px;
+    min-height: 450px;
+}
+
+.sidebar {
+    position: sticky;
+    max-width: 80px;
+    max-height: 300px;
+    border: 0;
+    background: #CFE8DC;
+}
