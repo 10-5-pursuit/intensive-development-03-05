@@ -1,0 +1,48 @@
+.container {
+    display: flex;
+    align-items: center; 
+    justify-content: space-between; 
+    flex-direction: column; 
+}
+
+.org-rect {
+    width: 500px;
+    height: 325px;
+    border: 1px solid black;
+}
+
+.outer-rect {
+    width: 475px;
+    height: 300px;
+    border: 5px solid lightgray;
+    position: relative;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.wrapper p {
+    margin-left: 8px;
+    font-family: sans-serif;
+}
+
+.sticky-container {
+    display: flex; 
+    position: relative; 
+}
+
+.sticky-sidebar{
+    position: sticky;
+    top: 0;
+    width: 300px;
+    height: 200px;
+    margin-top: 5px;
+    margin-left: 5px;
+    border: 2px solid #CEE7DB;
+    background-color: #CEE7DB;
+    border-radius: 5px;
+}
+
+.sticky-sidebar p {
+    font-family: sans-serif;
+    font-size: medium;
+}
