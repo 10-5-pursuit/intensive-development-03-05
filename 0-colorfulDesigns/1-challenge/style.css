@@ -1,0 +1,71 @@
+.circle-1 {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    border: 5px solid red;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+
+}
+
+.circle-2 {
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    border: 5px solid blue;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+
+}
+
+.circle-3 {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border: 5px solid yellow;
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.circle-4 {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    border: 5px solid green;
+    background-color: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.circle-5 {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: 5px solid purple;
+    background-color: purple;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.circle-6 {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border: 5px solid orange;
+    background-color: orange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
