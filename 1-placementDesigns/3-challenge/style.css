@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 10px;
+  box-sizing: border-box;
+  position: absolute;
+}
+
+.container {
+  border: 5px solid lightgray;
+  padding: 5px;
+  width: 60%;
+  position: relative;
+}
+
+.sidebar {
+  position: sticky;
+  top: 0;
+  left: 0;
+  width: 150px;
+  height: 100%;
+  background-color: aquamarine;
+}
+
+.content {
+}
+
+.content p {
+  font-size: 24px;
+  font-weight: 500;
+}

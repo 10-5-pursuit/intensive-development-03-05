@@ -1,5 +1,9 @@
+html,
 body {
+  width: 90%;
+  height: 90%;
   background-color: #202320;
+  padding-top: 30px;
 }
 
 .circle {
@@ -10,21 +14,27 @@ body {
 }
 
 .red {
+  left: 15%;
   background-color: red;
 }
 
 .teal {
+  left: 45%;
   background-color: teal;
 }
 .orange {
+  left: 75%;
   background-color: orange;
 }
 .blue {
+  left: 5%;
   background-color: blue;
 }
 .purple {
+  left: 35%;
   background-color: purple;
 }
 .green {
+  left: 65%;
   background-color: green;
 }
