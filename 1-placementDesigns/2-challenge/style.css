@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box{
+        width: 480px;
+        height: 430px;
+        background-color: white;
+        margin: 5px;
+     
+        border: lightgrey solid 10px;
+        position: relative;
+        
+}
+
+.box2{
+    position: absolute;
+    width: 150px;
+    height: 140px;
+    background-color:rgb(103, 58, 180);
+    right: 1%;
+    border-radius: 5%;
+    top: 1px;
+}
+
+.target {
+    color: white;
+    position: relative;
+    top: 10px;
+}
+p{
+    font-size: larger;
+    margin: 15px;
+}
