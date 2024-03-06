@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    
+    
+}
+.thick-container {
+    width: 800px;
+    height: 500px;
+    border: 10px solid grey;
+}
+.target {
+    position: absolute;
+    width: 220px;
+    height: 220px;
+    background-color: purple;
+    border-radius: 10px;
+    padding: 25px;
+    color: white;
+    font-style: bold;
+    font-size: 30px;
+    margin-left: 560px;
+    top: 30px;
+}
+#paragraph {
+    margin: 30px;
+    margin-left: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+#paragraph-2 {
+    margin: 30px;
+    margin-left: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
