@@ -1,0 +1,68 @@
+body,
+html {
+    margin: 0;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.circle-container {
+    position: relative;
+    width: 500px;
+    height: 500px;
+    margin: 50px auto;
+}
+
+.circle {
+    border-radius: 50%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+
+}
+
+.red {
+    background: red;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+}
+
+.blue {
+    background: blue;
+    width: 80%;
+    height: 80%;
+    z-index: 2;
+}
+
+.yellow {
+    background: yellow;
+    width: 60%;
+    height: 60%;
+    z-index: 3;
+}
+
+.green {
+    background: green;
+    width: 40%;
+    height: 40%;
+    z-index: 4;
+}
+
+.purple {
+    background: purple;
+    width: 20%;
+    height: 20%;
+    z-index: 5;
+}
+
+.orange {
+    background: orange;
+    width: 10%;
+    height: 10%;
+    z-index: 6;
+}
