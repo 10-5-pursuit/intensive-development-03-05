@@ -1,0 +1,40 @@
+body {
+    margin: 5px;
+    padding: 5px;
+    outline: 1px solid black;
+    width: 75%;
+    height: 90%;
+    position: absolute;
+}
+
+.container {
+    margin: 5px;
+    padding: 5px;
+    outline: 5px solid rgb(170, 170, 170);
+    width: 65%;
+    height: 94%;
+    position: absolute;
+    
+} 
+.first {
+    text-align: 20px;
+    position: relative;
+    line-height: 30px;
+}
+
+section {
+    background-color: rgb(180, 245, 171);
+    border-radius: 5%;
+    width: 100px;
+    height: 100px;
+    padding: 50px;
+
+    /* position: absolute; */
+    /* top: 50px;
+    left: 50px; */
+}
+.second {
+    text-align: 20px;
+    position: relative;
+    line-height: 30px;
+}
