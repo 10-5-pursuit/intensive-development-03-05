@@ -1,0 +1,37 @@
+.container {
+    margin: 5px;
+    padding: 5px;
+    outline: 5px solid rgb(170, 170, 170);
+    width: 50%;
+    height: 94%;
+    position: relative;
+    
+} 
+
+section {
+    background-color: rgb(196, 244, 196);
+    width: 100px;
+    height: 200px;
+    padding: 25px;
+    right: 0px;
+    top: 0px;
+    position: sticky;
+    font-size: 15pt;
+    
+}
+.first {
+    text-align: 20px;
+    position: relative;
+    line-height: 30px;
+    
+}
+.second {
+    text-align: 20px;
+    position: relative;
+    line-height: 30px;
+}
+p{
+    display: inline;
+    left: 175px;
+    top: 0px;
+}
