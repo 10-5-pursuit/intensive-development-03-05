@@ -1,0 +1,27 @@
+* {
+    margin-top: 10px;
+    margin-left: 5px;
+    
+}
+#creator {
+    display: block;
+    padding-left: 530px;
+    color: #797979;  
+}
+h2 {
+    color: #444444;
+    width: calc(100% - 40px);
+    max-width: 521px;
+    font-weight: 400; 
+    line-height: 1.7rem;
+}
+footer {
+    position: absolute;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #444444;
+    bottom: 12%;
+}
+
+
+
