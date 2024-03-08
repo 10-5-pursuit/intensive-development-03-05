@@ -1,12 +1,11 @@
 *{
     position: absolute;
     margin: 0;
-    box-sizing: border-box;
 }
 .container{
     background-color: rgb(30, 30, 30);
-    width: 100vw;
-    height: 54vh;
+    width: 970px;
+    height: 650px;
     top: 290px;
 }
 .c1{
@@ -14,46 +13,46 @@
     height: 100px;
     border-radius: 50%;
     background-color: red;
-    left: 10%;
-    top: 15%
+    left: 100px;
+    top: 100px;
 }
 .c2{
     width: 100px;
     height: 100px;
     border-radius: 50%;
     background-color: cyan;
-    left: 47%;
-    top: 21%
+    left: 440px;
+    top: 140px;
 }
 .c3{
     width: 100px;
     height: 100px;
     border-radius: 50%;
     background-color: orange;
-    right: 3%;
-    top: 30%
+    right: 65px;
+    top: 200px;
 }
 .c4{
     width: 100px;
     height: 100px;
     border-radius: 50%;
     background-color: lightblue;
-    left: 3%;
-    bottom: 30%;
+    left: 30px;
+    bottom: 180px;
 }
 .c5{
     width: 100px;
     height: 100px;
     border-radius: 50%;
     background-color: purple;
-    left: 40%;
-    bottom: 20%;
+    left: 370px;
+    bottom: 130px;
 }
 .c6{
     width: 100px;
     height: 100px;
     border-radius: 50%;
     background-color: green;
-    right: 10%;
-    bottom: 10%
+    right: 150px;
+    bottom: 80px;
 }
