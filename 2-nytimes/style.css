@@ -1,9 +1,10 @@
 * {
     margin-top: 10px;
     margin-left: 5px;
-    
+    position: relative;
 }
 #creator {
+    position: absolute;
     display: block;
     padding-left: 530px;
     color: #797979;  
@@ -20,7 +21,7 @@ footer {
     letter-spacing: 1px;
     text-transform: uppercase;
     color: #444444;
-    bottom: 12%;
+    top: 99%;
 }
 
 
