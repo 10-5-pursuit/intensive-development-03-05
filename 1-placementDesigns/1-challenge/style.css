@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 10px;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+.container {
+    position: static;
+    border: 1px solid black;
+
+}
+
+.inner_div {
+    position: static;
+    border: 3px solid gray;
+}
+
+.target {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #CFE8DC;
+    width: 25%;
+    border-radius: 5px;
+    padding-bottom: 100px;
+}
