@@ -1,0 +1,28 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+figcaption {
+    text-align: right;
+    columns: grey;
+}
+
+h1 {
+    font-size: 45px;
+    font-weight: 25;
+    padding: 0;
+}
+
+p {
+    font-size: 25px;
+    line-height: 1.5;
+    color: grey;
+    padding: 0;
+    
+}
+
+label[for="p"]{
+    color: gray;
+}
