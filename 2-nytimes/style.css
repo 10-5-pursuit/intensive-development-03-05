@@ -1,0 +1,21 @@
+* {
+    /* background-color: gray; */
+    }
+    
+    .name {
+    font-size: smaller;
+    font-family: sans-serif;
+    color: gray;
+    text-align: right;
+    }
+    
+    main p {
+    color: gray;
+    font-family: sans-serif;
+    font-size: larger
+    ;
+    }
+    
+    p {
+    color: gray;
+    }

@@ -1,0 +1,70 @@
+body{
+    background-color: rgb(43, 42, 42);
+    /* border: 5em solid black; */
+    /* padding: 2em 2em 2em 2em; */
+    /* margin: auto; */
+    /* border-width: .7em; */
+    
+    }
+    
+    .bubble1 {
+    border: 1px solid red;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: red;
+    margin: 5em 1em 2em;
+    
+    
+    }
+    
+    .bubble2 {
+    border: 1px solid rgb(6, 163, 163);
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin: auto;
+    background-color: rgb(6, 163, 163);
+    }
+    
+    .bubble3 {
+    border: 1px solid orange;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin: auto;
+    background-color: orange;
+    float: right
+    }
+    
+    .bubble4 {
+    border: 1px solid cornflowerblue;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin: auto;
+    background-color: cornflowerblue;
+    margin: 5em 0em;
+    }
+    
+    .bubble5 {
+    border: 1px solid rgb(180, 5, 180);
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin: auto;
+    background-color: rgb(180, 5, 180);
+    
+    
+    }
+    
+    .bubble6 {
+    border: 1px solid rgb(1, 145, 1);
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin: auto;
+    background-color: rgb(1, 145, 1);
+    float: right;
+    
+    }
