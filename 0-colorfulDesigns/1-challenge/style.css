@@ -1,0 +1,24 @@
+*{
+    background-color: gray;
+    }
+    
+    .goldbubble {
+    border: 2px solid goldenrod;
+    border-radius: 50%;
+    width: 80px;
+    height: 100px;
+    background-color: goldenrod;
+    margin: 5em;
+    box-shadow: 2em;
+    
+    }
+    
+    .purplebubble {
+    border: 2px solid purple;
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    background-color: purple;
+    margin: auto;
+    }
+    
